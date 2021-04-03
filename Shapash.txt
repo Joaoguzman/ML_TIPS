@@ -1,0 +1,8 @@
+¿Te has encontrado con esta pregunta?: "¿Me explicas el modelo?", "¿Cómo llegaste a ese resultado?". A veces la pregunta puede ser simple de responder y otras no. Acá una ayuda.
+
+MAIF creó un kit de herramientas para Python llamada Shapash. Esta facilita la comprensión de lo modelos de #machinelearning y su interpretabilidad. Te dará la posibilidad de compartir los resultados y analizarlos con tu contraparte.
+
+En simple Shapash proporciona visualizaciones fáciles de leer y en una aplicación web, lo que abrirá la comprensión y claridad de lo ejecutado a terceros, sin grandes esfuerzos.
+
+Más detalles acá --->https://www.kdnuggets.com/2021/04/shapash-machine-learning-models-understandable.html   ---  https://lnkd.in/eTTejT5
+Repositorio acá ---> https://github.com/MAIF/shapash/discussions   ----     ----    https://lnkd.in/e-fFc8m

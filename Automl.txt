@@ -1,0 +1,12 @@
+Cada vez está más presente el concepto de AutoML. Esta última es una buena forma de probar varios modelos, revisar la calidad de la data, entre otras cosas, sin esfuerzo adicional. La novedad respecto a esto es EvalML.
+
+Alteryx (los mismos creadores de Featuretools) ha creado una vez más una librería de código abierto para Python llamada EvalML. Esta permite automatizar la creación de modelos de #machinelearning y comprenderlos de mejor manera. Algunos atributos:
+
+1. Modelo unificado simple: entrena y califica una colección de modelos, permitiendo luego elegir el de mejor performance.
+2. Funciones objetivas y específicas: permite el uso de objetivo personalizado lo que ayuda a guiar el AutoML hacia los modelos de mayor impacto.
+3. Comprensión del modelo: disponibiliza resultados para evaluar la performance como feature importance, ROC curves, explicación de predicciones, entre otros.
+4. Chequeo de datos: permite detectar target leakage, data inválida, entre otros puntos
+
+Links:
+Github: https://github.com/alteryx/evalml
+Página: https://www.kdnuggets.com/2021/04/easy-automl-python.html.
